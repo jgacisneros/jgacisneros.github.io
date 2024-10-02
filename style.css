@@ -1,7 +1,7 @@
-/* sets the margin of all the element to 10px on all sides and the background-color to black */
+/* sets the margin of all the element to 10px on all sides and the background-color to white */
 body{
     margin: 10px;
-    background-color: black;
+    background-color: white;
 }
 
 /* Home section  which has the app name and nav bar. The styling is applied by id */
