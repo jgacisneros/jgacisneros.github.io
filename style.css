@@ -1,8 +1,7 @@
 /* sets the margin of all the element to 10px on all sides and the background-color to black */
 body{
     margin: 10px;
-    background-color: white;
-    color:teal;
+    background-color: black;
 }
 
 /* Home section  which has the app name and nav bar. The styling is applied by id */
@@ -68,7 +67,7 @@ img {
 }
 
 figcaption {
-    color:darkslategray;
+    color:black;
     font-size: 17px;
     text-align: center;
 }
@@ -139,5 +138,4 @@ legend {
 footer {
     background-color:rgb(240, 234, 245);
     margin-top: 20px;
-    color:teal;
 }
